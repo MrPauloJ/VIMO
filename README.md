@@ -1,22 +1,22 @@
 # VIMO - "Viva o Mundo Organizadamente"
 
-O projeto foi desenvolvido para avaliação da disciplina de Desenvolvimento Comerecial de Software durante o curso técnico.
+Project developed as final work for "Business Software Development" discipline during the technical course in I.T.
 
-O aplicativo tem como objetivo funcionar como um auxilio na organização de atividades rotineiras.
+The application aims to help you organize daily activities.
 
-OBS: Note que o desenvolvimento do projeto é antigo, de forma que aplicativos atuais superam a usabilidade deste.
+OBS: This project is old, today there are stronger frameworks and platforms like Google Drive, Microsoft 365 etc.
 
-### Caracteristicas
+### Technical Features
 
-- Plataformas:
-  - Computadores
+- Platforms:
+  - Personal Computers
 
-- Linguagens:
+- Programming Languages:
   - JAVA
   - SQL
 
-- Adicionais
-  - Sem executável
-  - SQLITE3 ( Banco de dados portável )
+- More
+  - No executable (.exe)
+  - SQLITE3 (Portable Database - Local and Offline)
 
 
